@@ -4,7 +4,7 @@ Welcome to the repository for the SmolLM2 fine-tuning assignment. This project d
 
 ## 🌐 Live Demo
 You can interact with the fine-tuned model directly through our web interface hosted on GitHub Pages:
-**👉 [Test the Live Application Here](https://MohanadEladl.github.io/smollm2-assignment/)**
+**👉 [Test the Live Application Here](https://mohanadeladl.github.io/Smollm2_QnA-Bot/)**
 
 > ⚠️ **IMPORTANT DISCLAIMER regarding Uptime:**
 > The backend of this application is hosted on the free tier of Hugging Face Spaces, which automatically goes to **"Sleep Mode"** after 48 hours of inactivity to conserve server resources. 
